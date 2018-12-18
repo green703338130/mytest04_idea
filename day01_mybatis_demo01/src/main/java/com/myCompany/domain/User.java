@@ -7,6 +7,8 @@ public class User implements Serializable {
     /**
      *
      */
+
+    private  String m;
     private static final long serialVersionUID = 1L;
     private Integer id;
     private String username;// 用户姓名
